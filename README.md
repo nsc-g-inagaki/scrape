@@ -7,3 +7,11 @@
 ```bash
 pip -r requirements.txt
 ```
+
+## [scrape.py](scrape.py)
+
+データのスクレーピングと、CSV出力の処理が書いてあります。
+
+## [plot.py](plot.py)
+
+データのグラフ化と画像に保存の処理が書いてあります。
